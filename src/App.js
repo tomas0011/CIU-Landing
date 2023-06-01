@@ -19,7 +19,7 @@ function App() {
           <button class="navbar-toggler bg-warning" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
-          <a class="text-warning" href="#">
+          <a class="text-warning mx-4" href="#">
             <Icon path={mdiCart} size={1} />
           </a>
           <div class="collapse navbar-collapse" id="navbarNav">
